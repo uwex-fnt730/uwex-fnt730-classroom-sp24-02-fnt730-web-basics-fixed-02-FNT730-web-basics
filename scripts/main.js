@@ -1,5 +1,2 @@
-/*
- * This is where you will write your Javascript code following the assignment.
- * Author: ***TODO***
- * Date: ***TODO***
- */
+const myHeading = document.querySelector("h1");
+myHeading.textContent = "Hello world!";
