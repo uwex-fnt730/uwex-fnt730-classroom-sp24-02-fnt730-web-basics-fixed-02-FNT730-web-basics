@@ -37,3 +37,4 @@ function setStyles() {
 bgcolorForm.onchange = populateStorage;
 fontForm.onchange = populateStorage;
 imageForm.onchange = populateStorage;
+
