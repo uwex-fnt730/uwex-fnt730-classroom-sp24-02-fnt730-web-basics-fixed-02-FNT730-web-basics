@@ -5,3 +5,4 @@ window.addEventListener('storage', function(e) {
     document.querySelector('.my-url').textContent = e.url;
     document.querySelector('.my-storage').textContent = JSON.stringify(e.storageArea);
   });
+
